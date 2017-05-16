@@ -1,0 +1,33 @@
+body{
+  background-color: #1d1a05;
+}
+header{
+  background-color: #ca3c25;
+  margin: 2% 0;
+}
+
+.nav-pills>li>a {
+    color: #fff;
+  }
+
+span{
+  position: absolute;
+  margin-top: 2%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+.btn{
+  background-color: #ca3c25;
+  border: transparent;
+  margin: 2%;
+  color: #fff;
+}
+
+.texto{
+  color: #fff;
+  margin-top: 2%;
+}
+
+.texto p{
+  text-align: justify;
+}
